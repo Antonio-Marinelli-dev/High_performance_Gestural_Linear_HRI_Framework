@@ -1,5 +1,7 @@
 Gesture-Based Human–Robot Interaction for the OpenManipulator-X
-
+## Demo (watch the full demo video)
+▶️ [https://www.youtube.com/watch?v=aQiPd1rBwCM]
+https://www.youtube.com/watch?v=aQiPd1rBwCM
 A ROS Noetic / Gazebo framework that lets an operator command a 4-DOF OpenManipulator-X pick-and-place task barehanded: the user points at an object with the index finger and confirms by extending the thumb. Hand tracking comes from a standard monocular webcam, with no gloves, controllers or depth sensors.
 
 Developed for the Robotics course, MSc Mechatronics Engineering, Politecnico di Torino. The whole system runs in simulation inside a Docker container.
