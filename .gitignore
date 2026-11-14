@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Editor and OS
+.vscode/
+.DS_Store
+
+# Backups and archives
+*.zip
+*.tar.gz
+
+# Catkin build products (if the workspace is ever used as repository root)
+build/
+devel/
+logs/
